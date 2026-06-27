@@ -1,0 +1,6 @@
+{
+  "name": "GhostCode Portfolio",
+  "description": "Un portafolio profesional de desarrollo de software con estética dark-terminal y diseño de alta fidelidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
